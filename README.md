@@ -20,10 +20,14 @@ Responsibilities: UI/UX Design, Frontend, Backend, Database, Deployment, SEO
 - SEO optimized pages
 - Fast loading speed
 
-## Screenshots
-Add screenshots here after uploading them
+
+
 
 ## Contact
 **Ismail Sulaimon**  
 Email: ismailsulaiman306@gmail.com  
 GitHub: https://github.com/ismailsulaimanXR-cell
+![Homepage](Screenshot 2026-08-11 at 17.36.08.png)
+![About Page](Screenshot 2026-08-11 at 17.35.01.png)
+![Contact Page](Screenshot 2026-08-11 at 17.34.34.png)
+
