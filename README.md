@@ -31,9 +31,9 @@ GitHub: https://github.com/ismailsulaimanXR-cell
 🔗 https://ductmark.com.ng
 
 ## Screenshots
-![Homepage](Screenshot 2026-08-11 at 17.36.08.png)
+![Homepage](screenshot-home.png)
 
-![About Page](Screenshot 2026-08-11 at 17.35.01.png)
+![About Page](screenshot-about.png)
 
-![Contact Page](Screenshot 2026-08-11 at 17.34.34.png)
+![Gallery Page](screenshot-gallery.png)
 
